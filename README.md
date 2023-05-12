@@ -1,5 +1,4 @@
 # Prework Study Guide Webpage
-A study guide for course pre-work.
 ## Description
 
 This Study Guide was created for coding boot camp students who were going through the Prework. It contains notes on HTML, CSS, git and JavaScript.
